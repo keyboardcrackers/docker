@@ -21,6 +21,7 @@ $ docker images
 
 Running containers:<br/>
 $ docker ps -a
+<br/>
 ('-a' for all containers)
 
 Run docker image:<br/>
